@@ -1,6 +1,6 @@
-# P2E Savings Group App
+# LieSave Savings Group App
 
-A **Play-to-Earn (P2E)** blockchain-inspired savings group for students.  
+A **LiteSave** blockchain-inspired savings group for students.  
 Members contribute weekly based on their tier, and **earn 20% return on the total pooled amount**.
 
 ---
